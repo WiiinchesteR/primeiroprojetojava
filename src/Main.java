@@ -9,7 +9,7 @@ public class Main {
         System.out.print("Digite o nome do cliente: ");
         String cliente = scanner.nextLine();
 
-        // Saldo em conta começa com 0
+        // Saldo em conta começa com R$0,00
         double saldo = 0;
 
         while (true) {
